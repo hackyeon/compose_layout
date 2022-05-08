@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose_layout</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
+    <string name="title_activity_list_string">ListActivity</string>
+</resources>
