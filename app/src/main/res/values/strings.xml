@@ -2,4 +2,8 @@
     <string name="app_name">compose_layout</string>
     <string name="title_activity_scaffold">ScaffoldActivity</string>
     <string name="title_activity_list_string">ListActivity</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_constraint">ConstraintActivity</string>
+    <string name="title_activity_built_in">BuiltInActivity</string>
 </resources>
